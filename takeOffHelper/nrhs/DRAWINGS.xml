@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MarkupSummary Version="1.0" Document="DRAWINGS.pdf">
+  <Markup>
+    <Subject>AREA ALARM PANEL ETHERNET</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>2</Count>
+    <Label />
+    <OXY>XX</OXY>
+    <AIR />
+    <VAC>XX</VAC>
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT>AAP-RN_1, AAP-RN_2</COMMENT>
+    <ROOM />
+  </Markup>
+  <Markup>
+    <Subject>AREA ALARM PANEL ETHERNET ALT</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>2</Count>
+    <Label />
+    <OXY>X</OXY>
+    <AIR />
+    <VAC>X</VAC>
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT>AAP-RN_1, AAP-RN_2</COMMENT>
+    <ROOM>ALT OPTION ONE</ROOM>
+  </Markup>
+  <Markup>
+    <Subject>BALL VALVE</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>1</Count>
+    <Label>1-1/4"</Label>
+    <OXY />
+    <AIR />
+    <VAC />
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT />
+    <ROOM />
+  </Markup>
+  <Markup>
+    <Subject>BALL VALVE ADDER</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>1</Count>
+    <Label>3/4"</Label>
+    <OXY />
+    <AIR />
+    <VAC />
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT>ADDER OPTION 1</COMMENT>
+    <ROOM />
+  </Markup>
+  <Markup>
+    <Subject>MANIFOLD</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>1</Count>
+    <Label>OXY 3X3 STRAIGHT</Label>
+    <OXY />
+    <AIR />
+    <VAC />
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT />
+    <ROOM />
+  </Markup>
+  <Markup>
+    <Subject>MASTER ALARM PANEL</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>1</Count>
+    <Label>20 POINTS ETHERNET</Label>
+    <OXY />
+    <AIR />
+    <VAC />
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT />
+    <ROOM />
+  </Markup>
+  <Markup>
+    <Subject>MASTER ALARM PANEL ADDER</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>1</Count>
+    <Label>20 POINTS ETHERNET</Label>
+    <OXY />
+    <AIR />
+    <VAC />
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT />
+    <ROOM />
+  </Markup>
+  <Markup>
+    <Subject>PRESSURE SWITCH</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>1</Count>
+    <Label>VAC</Label>
+    <OXY />
+    <AIR />
+    <VAC />
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT />
+    <ROOM />
+  </Markup>
+  <Markup>
+    <Subject>PRESSURE SWITCH</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>1</Count>
+    <Label>OXY</Label>
+    <OXY />
+    <AIR />
+    <VAC />
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT />
+    <ROOM />
+  </Markup>
+  <Markup>
+    <Subject>Text Box</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>0</Count>
+    <Label />
+    <OXY />
+    <AIR />
+    <VAC />
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT />
+    <ROOM />
+  </Markup>
+  <Markup>
+    <Subject>Text Box</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>0</Count>
+    <Label />
+    <OXY />
+    <AIR />
+    <VAC />
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT />
+    <ROOM />
+  </Markup>
+  <Markup>
+    <Subject>Text Box</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>0</Count>
+    <Label />
+    <OXY />
+    <AIR />
+    <VAC />
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT />
+    <ROOM />
+  </Markup>
+  <Markup>
+    <Subject>WALL OUTLETS</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>4</Count>
+    <Label />
+    <OXY>1</OXY>
+    <AIR />
+    <VAC>1</VAC>
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT />
+    <ROOM />
+  </Markup>
+  <Markup>
+    <Subject>WALL OUTLETS</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>3</Count>
+    <Label />
+    <OXY>1</OXY>
+    <AIR />
+    <VAC />
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT />
+    <ROOM />
+  </Markup>
+  <Markup>
+    <Subject>ZONE VALVE BOX SENSOR</Subject>
+    <Page_Label>2</Page_Label>
+    <Count>4</Count>
+    <Label />
+    <OXY>3/4"</OXY>
+    <AIR />
+    <VAC>1"</VAC>
+    <N2O />
+    <WAGD />
+    <CO2 />
+    <NIT />
+    <INA />
+    <COMMENT>ZVB-RN_1, ZVB-RN_2, ZVB-RN_3, ZVB-RN_4</COMMENT>
+    <ROOM />
+  </Markup>
+</MarkupSummary>
