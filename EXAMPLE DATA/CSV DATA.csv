@@ -1,0 +1,130 @@
+﻿Subject,Page Label,Count,Label,OXY,AIR,VAC,N2O,WAGD,CO2,NIT,INA,COMMENT,ROOM,ADDER,Author
+AREA ALARM PANEL,P1.02E2,1,,X,X,X,,,,,,AAP-02-02,,,ABalkaran
+AREA ALARM PANEL,P1.02N2,1,,X,X,X,,,,,,AAP-02-03,,,ABalkaran
+AREA ALARM PANEL,P1.02W2,1,,X,X,X,,,,,,AAP-02-01,,,ABalkaran
+AREA ALARM PANEL,P1.03E2,1,,X,X,X,,,,,,AAP-03-02,,,ABalkaran
+AREA ALARM PANEL,P1.03W2,1,,X,X,X,,,,,,AAP-03-01,,,ABalkaran
+AREA ALARM PANEL,P1.03N2,1,,X,X,X,,,,,,AAP-03-03,,,ABalkaran
+AREA ALARM PANEL,P1.04E2,1,,X,X,X,,,,,,AAP-04-02,,,ABalkaran
+AREA ALARM PANEL,P1.04W2,1,,X,X,X,,,,,,AAP-04-01,,,ABalkaran
+AREA ALARM PANEL,P1.04N2,1,,X,X,X,,,,,,AAP-04-03,,,ABalkaran
+AREA ALARM PANEL,P1.05E2,1,,X,X,X,,,,,,AAP-05-02,,,ABalkaran
+AREA ALARM PANEL,P1.05N2,1,,X,X,X,,,,,,AAP-05-03,,,ABalkaran
+AREA ALARM PANEL,P1.05W2,1,,X,X,X,,,,,,AAP-05-01,,,ABalkaran
+AREA ALARM PANEL ADDER,P1.01W2,1,,X,X,X,,,,,,AAP-01-01,,ADDER OPTION 1,ABalkaran
+BALL VALVE,P1.00E2,3,"1-1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.00N1,2,"1-1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.00N1,1,"1""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.00N1,1,"4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.00N2,1,"1-1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.00N2,2,"1-1/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.00W1,3,"2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.01E2,2,"1-1/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.01N2,2,"1-1/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.01N2,3,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.01N2,1,"1-1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.01W1,1,"2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.01W2,1,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.01W2,1,"2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.01W2,2,"1""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.01W2,4,"1-1/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.02E2,2,"1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.02E2,1,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.02E2,2,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.02E2,1,"1""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.02N2,5,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.02N2,2,"1""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.02N2,2,"1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.02W2,4,"1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.02W2,8,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.02W2,3,"1""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.03E2,5,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.03E2,2,"1""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.03E2,2,"1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.03N2,4,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.03N2,3,"1""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.03N2,2,"1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.03W2,8,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.03W2,4,"1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.03W2,3,"1""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.04E2,5,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.04E2,2,"1""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.04E2,2,"1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.04N2,6,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.04N2,3,"1""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.04W2,8,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.04W2,3,"1""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.04W2,4,"1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.05E2,5,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.05E2,2,"1""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.05E2,2,"1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.05N2,2,"1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.05N2,5,"3/4""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.05N2,2,"1""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.05W2,4,"1/2""",,,,,,,,,,,,ABalkaran
+BALL VALVE,P1.05W2,6,"3/4""",,,,,,,,,,,,ABalkaran
+CHECK VALVE,P1.00W1,2,"2""",,,,,,,,,,,,ABalkaran
+Cloud+,P2.0UN1,0,,,,,,,,,,,,,mcrawley
+Cloud+,P2.00N1,0,,,,,,,,,,,,,mcrawley
+Cloud+,P2.01N1,0,,,,,,,,,,,,,mcrawley
+EOSC,P1.00W1,1,"2"" RECESSED + RELIEF VAVLE",,,,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.02E1,5,,1,1,1,,,,,,MGO-02-01,,,ABalkaran
+HEADWALLS NO BID,P1.02E2,6,,1,1,1,,,,,,MGO-02-01,,,ABalkaran
+HEADWALLS NO BID,P1.02N1,1,,1,1,1,,,,,,MGO-02-01,,,ABalkaran
+HEADWALLS NO BID,P1.02N1,4,,1,1,1,,,,,,MGO-02-01,,,ABalkaran
+HEADWALLS NO BID,P1.02N2,5,,1,1,1,,,,,,MGO-02-01,,,ABalkaran
+HEADWALLS NO BID,P1.02W1,7,,1,1,1,,,,,,MGO-02-01,,,ABalkaran
+HEADWALLS NO BID,P1.02W2,4,,1,1,1,,,,,,MGO-02-01,,,ABalkaran
+HEADWALLS NO BID,P1.03E1,6,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.03E2,6,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.03N1,6,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.03N2,6,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.03W1,8,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.03W2,4,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.04E1,6,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.04E2,6,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.04N1,6,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.04N2,6,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.04W1,8,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.04W2,4,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.05E1,6,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.05E2,6,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.05N1,6,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.05N2,6,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.05W1,8,,1,1,1,,,,,,,,,ABalkaran
+HEADWALLS NO BID,P1.05W2,4,,1,1,1,,,,,,,,,ABalkaran
+MASTER ALARM PANEL,P1.00E2,1,40 POINTS ETHERNET,,,,,,,,,,,,ABalkaran
+MASTER ALARM PANEL,P1.01E2,1,40 POINTS ETHERNET,,,,,,,,,,,,ABalkaran
+PRESSURE SWITCH,P1.00N1,1,INA,,,,,,,,,,,,ABalkaran
+PRESSURE SWITCH,P1.00W1,1,OXY,,,,,,,,,,,,ABalkaran
+Text Box,P4.01,0,,,,,,,,,,,,,ABalkaran
+Text Box,P1.01W2,0,,,,,,,,,,,,,ABalkaran
+Text Box,P1.01W2,0,,,,,,,,,,,,,ABalkaran
+Text Box,P1.02E2,0,,,,,,,,,,,,,ABalkaran
+Text Box,P1.02N2,0,,,,,,,,,,,,,ABalkaran
+WALL OUTLET ADDER,P1.01N2,2,,1,1,1,,,,,,,,,ABalkaran
+WALL OUTLET ADDER,P1.01W1,10,DISS,1,1,1,,,,,,,,ADDER OPTION 1,ABalkaran
+ZONE VALVE BOX,P1.02E2,1,,"3/4""","3/4""","1""",,,,,,ZVB-02-02,,,ABalkaran
+ZONE VALVE BOX,P1.02N2,1,,"3/4""","3/4""","1""",,,,,,ZVB-02-03,,,ABalkaran
+ZONE VALVE BOX,P1.02W2,1,,"3/4""","3/4""","1""",,,,,,ZVB-02-01,,,ABalkaran
+ZONE VALVE BOX,P1.03E2,1,,"3/4""","3/4""","1""",,,,,,ZVB-03-02,,,ABalkaran
+ZONE VALVE BOX,P1.03N2,1,,"3/4""","3/4""","1""",,,,,,ZVB-03-03,,,ABalkaran
+ZONE VALVE BOX,P1.03W2,1,,"3/4""","3/4""","1""",,,,,,ZVB-03-01,,,ABalkaran
+ZONE VALVE BOX,P1.04E2,1,,"3/4""","3/4""","1""",,,,,,ZVB-04-02,,,ABalkaran
+ZONE VALVE BOX,P1.04N2,1,,"3/4""","3/4""","1""",,,,,,ZVB-04-03,,,ABalkaran
+ZONE VALVE BOX,P1.04W2,1,,"3/4""","3/4""","1""",,,,,,ZVB-04-02,,,ABalkaran
+ZONE VALVE BOX,P1.05E2,1,,"3/4""","3/4""","1""",,,,,,ZVB-05-02,,,ABalkaran
+ZONE VALVE BOX,P1.05N2,1,,"3/4""","3/4""","1""",,,,,,ZVB-05-03,,,ABalkaran
+ZONE VALVE BOX ALT,P1.02E2,1,,"1/2""","1/2""","1""",,,,,,ZVB-02-02,,ALT OPTION 2,ABalkaran
+ZONE VALVE BOX ALT,P1.02N2,1,,"1/2""","1/2""","1""",,,,,,ZVB-02-03,,ALT OPTION 2,ABalkaran
+ZONE VALVE BOX ALT,P1.02W2,1,,"1/2""","1/2""","1""",,,,,,ZVB-02-01,,ALT OPTION 2,ABalkaran
+ZONE VALVE BOX ALT,P1.03E2,1,,"1/2""","1/2""","1""",,,,,,ZVB-03-02,,ALT OPTION 3,ABalkaran
+ZONE VALVE BOX ALT,P1.03N2,1,,"1/2""","1/2""","1""",,,,,,ZVB-03-03,,ALT OPTION 3,ABalkaran
+ZONE VALVE BOX ALT,P1.03W2,1,,"1/2""","1/2""","1""",,,,,,ZVB-03-01,,ALT OPTION 3,ABalkaran
+ZONE VALVE BOX ALT,P1.04E2,1,,"1/2""","1/2""","1""",,,,,,ZVB-04-02,,ALT OPTION 4,ABalkaran
+ZONE VALVE BOX ALT,P1.04N2,1,,"1/2""","1/2""","1""",,,,,,ZVB-04-03,,ALT OPTION 4,ABalkaran
+ZONE VALVE BOX ALT,P1.04W2,1,,"1/2""","1/2""","1""",,,,,,ZVB-04-02,,ALT OPTION 4,ABalkaran
+ZONE VALVE BOX ALT,P1.05E2,1,,"1/2""","1/2""","1""",,,,,,ZVB-05-02,,ALT OPTION 4,ABalkaran
+ZONE VALVE BOX ALT,P1.05N2,1,,"1/2""","1/2""","1""",,,,,,ZVB-05-03,,ALT OPTION 4,ABalkaran
+ZONE VALVE BOX SENSOR,P1.01W2,1,,"1/2""",,"1""",,,,,,ZVB-1-01,,,ABalkaran
+ZONE VALVE BOX SENSOR ALT,P1.01W2,1,,"1/2""","1/2""","1""",,,,,,ZVB-1-01,,ADDER OPTION 1,ABalkaran
